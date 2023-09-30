@@ -1,0 +1,32 @@
+Date;Time;Route;Registration;Aboard;Aboard Passangers;Aboard Crew;Fatalities;Fatalities Passangers;Fatalities Crew;Location,Operator,AC Type;Ground
+09/17/1908;17:18;Demonstration;;2;1;1;1;1;0;Fort Myer, Virginia,Military - U.S. Army,Wright Flyer III;0
+09/07/1909;;Air show;SC1;1;0;1;1;0;0;Juvisy-sur-Orge, France,,Wright Byplane;0
+07/12/1912;06:30;Test flight;;5;0;5;5;0;5;Atlantic City, New Jersey,Military - U.S. Navy,Dirigible;0
+08/06/1913;;;;1;0;1;1;0;1;Victoria, British Columbia, Canada,Private,Curtiss seaplane;0
+09/09/1913;18:30;;;20;NULL;NULL;14;NULL;NULL;Over the North Sea,Military - German Navy,Zeppelin L-1 (airship);0
+10/17/1913;10:30;;;30;NULL;NULL;30;NULL;NULL;Near Johannisthal, Germany,Military - German Navy,Zeppelin L-2 (airship);0
+03/05/1915;01:00;;;41;NULL;NULL;21;NULL;NULL;Tienen, Belgium,Military - German Navy,Zeppelin L-8 (airship);0
+09/03/1915;15:20;;;19;NULL;NULL;19;NULL;NULL;Off Cuxhaven, Germany,Military - German Navy,Zeppelin L-10 (airship);0
+07/28/1916;;;;20;NULL;NULL;20;NULL;NULL;Near Jambol, Bulgeria,Military - German Army,Schutte-Lanz S-L-10 (airship);0
+09/24/1916;01:00;;;22;NULL;NULL;22;NULL;NULL;Billericay, England,Military - German Navy,Zeppelin L-32 (airship);0
+10/01/1916;23:45;;;19;0;19;19;0;19;Potters Bar, England,Military - German Navy,Zeppelin L-31 (airship);0
+11/21/1916;;;;28;NULL;NULL;27;NULL;NULL;Mainz, Germany,Military - German Army,Super Zeppelin (airship);0
+11/28/1916;23:45;;;20;NULL;NULL;20;NULL;NULL;Off West Hartlepool, England,Military - German Navy,Zeppelin L-34 (airship);0
+03/04/1917;;;;20;NULL;NULL;20;NULL;NULL;Near Gent, Belgium,Military - German Army,Airship;0
+03/30/1917;;;;23;NULL;NULL;23;NULL;NULL;Off Northern Germany,Military - German Navy,Schutte-Lanz S-L-9 (airship);0
+05/14/1917;05:15;;;21;NULL;NULL;21;NULL;NULL;Near Texel Island, North Sea,Military - German Navy,Zeppelin L-22 (airship);0
+06/14/1917;08:45;;;24;NULL;NULL;24;NULL;NULL;Off Vlieland Island, North Sea,Military - German Navy,Zeppelin L-43 (airship);0
+06/17/1917;;;L-48;16;NULL;NULL;14;NULL;NULL;Near Yarmouth, England,,Zepplin LZ-95 (air ship);0
+08/21/1917;07:00;;;18;NULL;NULL;18;NULL;NULL;Off western Denmark,Military - German Navy,Zeppelin L-23 (airship);0
+10/20/1917;07:45;;;18;NULL;NULL;18;NULL;NULL;Near Luneville, France,Military - German Navy,Zeppelin L-44 (airship);0
+04/07/1918;21:30;;;23;NULL;NULL;23;NULL;NULL;Over the Mediterranean,Military - German Navy,Zeppelin L-59 (airship);0
+05/10/1918;;;;22;NULL;NULL;22;NULL;NULL;Off Helgoland Island, Germany,Military - German Navy,Zeppelin L-70 (airship);0
+08/11/1918;10:00;;;19;NULL;NULL;19;NULL;NULL;Ameland Island, North Sea,Military - German Navy,Zeppelin L-53 (airship);0
+12/16/1918;;;97;1;0;1;1;0;1;Elizabeth, New Jersey,US Aerial Mail Service,De Havilland DH-4;0
+05/25/1919;;;61;1;0;1;1;0;1;Cleveland, Ohio,US Aerial Mail Service,De Havilland DH-4;0
+07/19/1919;;;82;1;0;1;1;0;1;Dix Run, Pennsylvania,US Aerial Mail Service,De Havilland DH-4;0
+07/21/1919;16:55;Shuttle;;NULL;NULL;NULL;3;2;1;Chicago, Illinois,Wingfoot Air Express Goodyear Tire,FD Type Dirigible;10
+08/02/1919;;Venice  Taliedo;;14;12;2;14;12;2;Verona, Italy,Caproni Company,Caproni Ca.48;0
+10/02/1919;;;;1;0;1;1;0;1;Newcastle, England,Aircraft Transport and Travel,De Havilland DH-4;0
+10/14/1919;;;32;1;0;1;1;0;1;Cantonsville, Maryland,US Aerial Mail Service,Curtiss R-4LM;0
+10/20/1919;;;G-EAHG;0;0;1;0;0;0;English Channel off Forkstone, Kent,Aircraft Transport and Travel,De Havilland DH-4;0
